@@ -1,0 +1,38 @@
+Nama : Abrar Endra
+NIM  : 131114056
+Kelas: TP-B Pagi
+
+•	Apakah anda setuju/tidak dengan pendapat turing?
+- “Jika sebuah komputer tidak lagi bisa dibedakan dengan manusia maka komputer tersebut telah mampu ‘berpikir’.” Sebaiknya kita cari tahu dulu apa arti ‘berpikir’ sebenarnya. Menurut beberapa artikel yang pernah saya baca, singkatnya berpikir adalah suatu kegiatan mental yang melibatkan kerja otak. Kegiatan berpikir juga melibatkan seluruh pribadi dan melibatkan perasaan dan kehendak manusia. Berpikir juga berarti memahami sesuatu yang dialami atau mencari jalan keluar dari persoalan yang sedang dihadapi. Memastikan, merancang, menghitung, mengukur, mengevaluasi, membandingkan, menggolongkan, membedakan, menafsirkan, memutuskan adalah beberapa kegiatan berpikir. Jadi, menurut saya apabila sebuah komputer memiliki kehendak bebas apa yang dilakukannya, saya setuju jika mengatakan komputer itu dapat berpikir, namun tidak berarti hanya dengan berpikir, komputer bisa disamakan dengan manusia.
+
+•	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+- Kemungkinan besar ya. Saya percaya dengan kemampuan dan potensi manusia, manusia yang selalu ingin tahu, selalu berkembang. Saya pernah membaca artikel yang mengatakan bahwa sudah ada klaim yang menyatakan bahwa ada program komputer yang sudah lolos tes turing pada tahun 2014, yaitu Eugene Goostman. Saya tidak tahu banyak dan secara detail tentang program ini, namun jika pertanyaan ini berfokus kepada kemampuan manusia yang dapat membuat komputer lolos tes turing, saya menjawab “ya”.
+
+
+•	Halangan yang dapat menghambat perkembangan komputer untuk melewati Tes Turing?
+- Jika maksudnya adalah membuat sebuah komputer yang dapat berfikir seperti manusia, penghambatnya ialah hakekat manusia, manusia memiliki kesadaran, jiwa, kehendak akal, potensi, emosi, cita rasa, dan sebagainya. Menurut saya, jika manusiia ingin membuat komputer yang dapat berfikir seperti manusia, setidaknya komputer tersebut harus memiliki program yang dapat mengatasi sebagian dari hakekat manusia.
+
+
+•	Pengolahan Bahasa Alami (Natural Language Processing)
+- Cabang ilmu komputer dan lingustik yang mengkaji interaksi antara komputer dengan bahasa alami. Contohnya translator bahasa inggris ke bahasa Indonesia, bahasa jepang ke bahasa korea, dan sebagainya. Translator bahasa alami bukan hanya kamus yang menerjemahkan kata per kata, namun harus mentranslasikan sintaks dari bahasa asal ke bahasa tujuannya. Contoh lainnya ialah translator yang memungkinkan kita memberikan perintah bahasa alami kepada komputer, jadi pengguna dapat menghapus sebuah file hanya dengan memberi perintah “tolong hapus file x, komputer!”, translator langsung menstranslasikan perintah bahasa alami tersebut menjadi bahasa yang dipahami komputer.
+
+
+•	Knowledge Representation
+- Suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedut pemecahan permasalahan. Bahasa representasi harus dapat membuat pemrogram mampu mengekspresikan pengetahuan yang diperlukan untuk mendapatkan solusi permasalahan.
+Contoh: Helder adalah anjing, fakta tersbut dapat direpresentasikan secara logika yaitu: anjing(helder)
+
+•	Automated Reasoning
+- Penalaran otomatis merupakan bidang ilmu komputer dan logika matematika untuk memahami berbagai aspek penalaran.
+Contoh: Jika objek A lebih kuat dari beberapa objek B dan objek B lebih kuat daripada objek C, maka objek A lebih kuat daripada objek C.
+
+•	Machine Learning
+- Pembelajaran mesin, adalah sebuah cabang dari kecerdasan buatan, Inti dari mesin belajar berkaitan dengan representasi dan generalisasi.
+Contoh: Bila dibidang kedokteran, bagaimana sebuah aplikasi dapat mendeteksi penyakit seseorang dari gejala-gejala yang ada.
+
+•	Computer Vision
+- Visi komputer adalah bidang yang mencakup metode untuk memperoleh , mengolah , menganalisis, dan pemahaman gambar dan , secara umum , data dimensi tinggi dari dunia nyata untuk menghasilkan informasi numerik atau simbolis, misalnya, dalam bentuk keputusan.
+Contoh: Bidang pertahanan dan keamanan (militer) seperti mendeteksi tentara musuh atau kendaraan dan bimbingan rudal.
+
+•	Robotic
+- Satu cabang teknologi yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi dari robot. Robotika terkait dengan ilmu pengetahuan bidang elektronika, mesin, mekanika, dan perangkat lunak komputer.
+Contoh: SIMROID (robot mirip manusia yang dirancang untuk latihan praktik di sekolah kedokteran gigi.
